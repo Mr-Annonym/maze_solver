@@ -80,9 +80,9 @@ Here is an example of how the program's output will look when finding a path thr
 To provide a visual understanding of the maze and the path:
 
 - **Maze Map:**
-  ![Maze Map](./images/maze_picture.png)
+  ![Maze Map](./images/maze_picture.png){: style="background-color: white"}
 - **Path Map:**
-  ![Path Map](./images/path_map.png)
+  ![Path Map](./images/path_map.png){: style="background-color: white"}
 
 Refer to the images for a visual representation of the maze and the computed path.
 
