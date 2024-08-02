@@ -1,5 +1,5 @@
 /*
-IZP maze_solver
+maze_solver
 Author: Martin Mendl x247581@stud.fit.vut.cz
 Date: 15.11.2023
 Note: 
